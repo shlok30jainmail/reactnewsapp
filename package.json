@@ -1,5 +1,6 @@
 {
   "name": "newsapp",
+  "homepage": "https://shlok30jainmain.github.io/reactnewsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
