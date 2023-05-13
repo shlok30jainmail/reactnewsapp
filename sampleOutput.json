@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Andy Rose, Paradise Afshar",
+    "title": "Colorado police release video of police car with suspect inside hit by a train - CNN",
+    "description": "Colorado police have released videos showing a train hitting a police cruiser in which a detained suspect was handcuffed.",
+    "url": "https://www.cnn.com/2022/09/24/us/colorado-police-car-train-bodycam-footage/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220920004754-01-colorado-woman-in-patrol-car-struck-by-train.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-25T02:13:00Z",
+    "content": "Colorado police have released videos showing a train hitting a police cruiser in which a detained suspect was handcuffed.\r\nThe Fort Lupton Police Department released body camera and dashcam video on … [+2358 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jason Hanna, Susannah Cullinane and Christina Maxouris, CNN",
+    "title": "'It is surreal': Canada's Atlantic coast residents describe devastation as Fiona wipes away homes and knocks out power for thousands - CNN",
+    "description": "Fiona ripped through Canada's eastern seaboard at hurricane strength after making landfall in Nova Scotia on Saturday, slamming the area with fierce winds and storm surge, sapping power for hundreds of thousands and washing away or collapsing some coastal hom…",
+    "url": "https://www.cnn.com/2022/09/24/weather/hurricane-fiona-canada-saturday/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220924132147-07-fiona-canada-0924-halifax-super-tease.jpg",
+    "publishedAt": "2022-09-25T02:08:00Z",
+    "content": "Affected by the storm? Use CNN's lite site for low bandwidth.\r\n (CNN)Fiona ripped through Canada's eastern seaboard at hurricane strength after making landfall in Nova Scotia on Saturday, slamming th… [+7886 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "WESH Orlando"
+    },
+    "author": null,
+    "title": "NHC forecasts Tropical Storm Ian will hit Florida as Category 3 hurricane - WESH 2 Orlando",
+    "description": "Find the latest track of Tropical Storm Ian here:",
+    "url": "https://www.wesh.com/article/tropical-storm-ian-track-florida/41352046",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/tropicalstormian10-1664074475.jfif?crop=1xw:1xh;center,top&resize=1200:*",
+    "publishedAt": "2022-09-25T01:52:00Z",
+    "content": "ORLANDO, Fla. —Tropical Depression Nine strengthened into Tropical Storm Ian Friday night. \r\nThis system is forecast to hit Florida as a Category 3 hurricane next week. \r\nAs of 8 p.m. Saturday, Tropi… [+6632 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "WAVY.com"
+    },
+    "author": "Courtney Ingalls",
+    "title": "SpaceX’s Falcon 9 rocket seen soaring over Hampton Roads Saturday - WAVY.com",
+    "description": "Those across Hampton Roads and North Carolina who might have seen a tiny white spot flying across the sky Saturday night got to see SpaceX’s Falcon 9 rocket!",
+    "url": "https://www.wavy.com/news/local-news/spacexs-falcon-9-rocket-seen-soaring-over-hampton-roads-saturday/",
+    "urlToImage": "https://www.wavy.com/wp-content/uploads/sites/3/2022/09/Untitled-design-32.jpg?w=1280",
+    "publishedAt": "2022-09-25T00:33:21Z",
+    "content": "HAMPTON ROADS, Va. (WAVY) – People across Hampton Roads and North Carolina who might have caught a glimpse of a tiny bright spot flying across the sky Saturday night got to see SpaceX’s Falcon 9 rock… [+345 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "David Cobb",
+    "title": "College football scores, schedule, NCAA top 25 rankings, games today: Alabama, Texas A&M in action - CBS Sports",
+    "description": "NCAA football scores, live updates and highlights from the full slate of Week 4 action on Saturday",
+    "url": "https://www.cbssports.com/college-football/news/college-football-scores-schedule-ncaa-top-25-rankings-games-today-oklahoma-usc-in-action/live/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/25/af69fca3-d063-4f95-a999-ab89eac2a067/thumbnail/1200x675/e48283f8f49064053c1aa0b9b2888ac1/caleb-williams-orst-getty.jpg",
+    "publishedAt": "2022-09-25T00:01:00Z",
+    "content": "Another action-packed college football Saturday is on deck with all but one of the teams ranked in the AP Top 25 teams in action during Week 4. Featured among the action will be three games pitting r… [+1983 chars]"
+    },
+   {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Iran will act decisively after biggest protests in years, president says - Reuters",
+    "description": "Iran must deal decisively with protests which have swept the country after the death in custody of a woman detained by the Islamic Republic's morality police, President Ebrahim Raisi said on Saturday.",
+    "url": "https://www.reuters.com/world/middle-east/irans-president-raisi-says-protesters-should-be-confronted-decisively-state-2022-09-24/",
+    "urlToImage": "https://www.reuters.com/resizer/lvyWFgkMK3WdGOAs9Rw9CgXG93k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OM6ECWLD5RKXHBUPOM4VSDNMBI.jpg",
+    "publishedAt": "2022-09-24T23:51:00Z",
+    "content": "DUBAI, Sept 24 (Reuters) - Iran must deal decisively with protests which have swept the country after the death in custody of a woman detained by the Islamic Republic's morality police, President Ebr… [+4792 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Maize n Brew"
+    },
+    "author": "DavidWoelkersJr",
+    "title": "J.J McCarthy, Jim Harbaugh sound off on QB’s performance against Maryland - Maize n Brew",
+    "description": "The quarterback praised his team’s response to adversity, but admitted he had a few plays he’d like to take back",
+    "url": "https://www.maizenbrew.com/football/23370208/michigan-wolverines-football-j-j-mccarthy-jim-harbaugh-maryland-2022-season",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/FD9lv-II_fZkyB6ZnjLzp6eMnyc=/0x0:3406x1783/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24051425/1426994989.jpg",
+    "publishedAt": "2022-09-24T23:00:00Z",
+    "content": "After three weeks of near-total domination, the Michigan Wolverines had their first taste of adversity Saturday grinding out a 34-27 victory against the Maryland Terrapins. \r\nThough it was by no mean… [+1904 chars]"
+    },
+   {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Lavrov pledges 'full protection' for any territory annexed by Russia - Reuters",
+    "description": "Russia's top diplomat on Saturday said regions of Ukraine where widely-derided referendums are being held would be under Russia's \"full protection\" if they are annexed by Moscow, amid fears Russia could further escalate the conflict and even use nuclear weapo…",
+    "url": "https://www.reuters.com/world/europe/lavrov-un-pledges-full-protection-any-territory-annexed-by-russia-2022-09-24/",
+    "urlToImage": "https://www.reuters.com/resizer/Hmz0sQLxOMInqSzdVna2vgDb43E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXQYZE5TGFP4TOOGTBGN26XQLA.jpg",
+    "publishedAt": "2022-09-24T22:59:00Z",
+    "content": "UNITED NATIONS, Sept 24 (Reuters) - Russia's top diplomat on Saturday said regions of Ukraine where widely-derided referendums are being held would be under Russia's \"full protection\" if they are ann… [+5198 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Space.com"
+    },
+    "author": "Mike Wall",
+    "title": "Powerful Delta IV Heavy rocket launches US spy satellite on final flight from California - Space.com",
+    "description": "Just two Delta IV Heavy missions remain now, both of which will launch from Florida.",
+    "url": "https://www.space.com/delta-iv-heavy-nrol-91-launch-success",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/qCTV4Z2NHXx9HfSgkvC4Xf-1200-80.jpeg",
+    "publishedAt": "2022-09-24T22:48:10Z",
+    "content": "The Delta IV Heavy's West Coast work is done.\r\nThe powerful United Launch Alliance (ULA) rocket launched a hush-hush satellite for the U.S. National Reconnaissance Office (NRO) from Vandenberg Space … [+2501 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Page Six"
+    },
+    "author": "Riley Cardoza",
+    "title": "Hilaria Baldwin gives birth to Ilaria, her 7th baby with Alec Baldwin, his 8th - Page Six",
+    "description": "“She’s here! We are so excited to introduce you to our tiny dream come true,” the mom of seven shared in a heartwarming Instagram post.",
+    "url": "https://pagesix.com/2022/09/24/hilaria-baldwin-gives-birth-to-7th-baby-with-alec-his-8th/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/06/baldwin-family-baby-comp.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2022-09-24T22:39:00Z",
+    "content": "The Baldwin brood just got even bigger.\r\nHilaria Baldwin gave birth Thursday, Sept. 22, welcoming her and Alec Baldwin’s seventh baby together Ilaria Catalina Irena Baldwin.\r\nIn a heartwarming Instag… [+2892 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "George Dvorsky",
+    "title": "Tropical Storm Ian Forces NASA to Postpone Upcoming Launch of Megarocket - Gizmodo",
+    "description": "NASA will decide on Sunday whether the Artemis 1 rocket needs to be transported back to the Vehicle Assembly Building.",
+    "url": "https://gizmodo.com/artemis-launch-nasa-tropical-storm-ian-1849577539",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3b21ea3b4293357cb1278ff3b88895ad.jpg",
+    "publishedAt": "2022-09-24T22:20:00Z",
+    "content": "Ian, the ninth named tropical storm of the current Atlantic hurricane season, has foiled NASAs plan to launch the Artemis 1 mission on Tuesday September 27. \r\nAs late as Friday afternoon, NASA offici… [+3390 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Charean Williams",
+    "title": "Bills place Micah Hyde on IR; sign Brandin Bryant, Prince Emili to active roster - NBC Sports",
+    "description": "Micah Hyde‘s agent announced earlier in the day that the Pro Bowl safety will miss the rest of the season with a neck injury. On Saturday afternoon, the Bills placed Hyde on injured reserve.Hyde went to the hospital for observation Monday night after being hi…",
+    "url": "https://profootballtalk.nbcsports.com/2022/09/24/bills-place-micah-hyde-on-ir-sign-brandin-bryant-prince-emili-to-active-roster/",
+    "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/09/GettyImages-1426862787-e1664050834532.jpg",
+    "publishedAt": "2022-09-24T20:20:00Z",
+    "content": "Micah Hydes agent announced earlier in the day that the Pro Bowl safety will miss the rest of the season with a neck injury. \r\nOn Saturday afternoon, the Bills placed Hyde on injured reserve.\r\nHyde w… [+482 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Angela Barbuti",
+    "title": "'Don't Worry Darling' scores big on its opening night - New York Post ",
+    "description": "“Don’t Worry Darling” has nothing to fret about.",
+    "url": "https://nypost.com/2022/09/24/dont-worry-darling-scores-big-on-its-opening-night/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/box-office-220924.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-09-24T19:52:00Z",
+    "content": "“Don’t Worry Darling” has nothing to fret about.\r\nThe Olivia Wilde-directed psych thriller took home $9.4 million on its opening night Friday, according to IMDBs Box Office Mojo. \r\nThe flick, which T… [+1359 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Neurosciencenews.com"
+    },
+    "author": "Neuroscience News",
+    "title": "COVID-19 Associated With Increase in New Diagnoses of Type 1 Diabetes in Youth, by as Much as 72% - Neuroscience News",
+    "description": "Children who contracted COVID-19 are at increased risk of being diagnosed with Type 1 diabetes. Researchers found a 72% increase in new Type 1 diabetes cases in those under 18 who contracted COVID-19.",
+    "url": "https://neurosciencenews.com/covid-19-diabetes-youth-21507/",
+    "urlToImage": "https://neurosciencenews.com/files/2022/09/covid-diabetes-neurosicnces-public.jpg",
+    "publishedAt": "2022-09-24T19:39:18Z",
+    "content": "Summary: Children who contracted COVID-19 are at increased risk of being diagnosed with Type 1 diabetes. Researchers found a 72% increase in new Type 1 diabetes cases in those under 18 who contracted… [+4889 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Kim Kardashian's Tour of Her Dolce & Gabbana Collaboration | Vogue - Vogue",
+    "description": "Kim x Dolce & Gabbana is not only a “dream come true,” as Kim Kardashian says in this “First Looks” video; it’s also an all-in-the-family full circle moment....",
+    "url": "https://www.youtube.com/watch?v=WjJYqsoB5LY",
+    "urlToImage": "https://i.ytimg.com/vi/WjJYqsoB5LY/hqdefault.jpg",
+    "publishedAt": "2022-09-24T19:07:01Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "TED ANTHONY AP National Writer",
+    "title": "China on Taiwan: 'External interference' won't be tolerated - ABC News",
+    "description": "China has underscored its commitment to its claim on Taiwan",
+    "url": "https://abcnews.go.com/US/wireStory/china-underscores-commitment-taiwan-warns-interlopers-90429632",
+    "urlToImage": "https://s.abcnews.com/images/US/WireAP_3a293e31bf744aca8b124999b1f9e4e6_16x9_992.jpg",
+    "publishedAt": "2022-09-24T18:02:57Z",
+    "content": "UNITED NATIONS -- China underscored its commitment Saturday to its claim on Taiwan, telling assembled world leaders that anyone who gets in the way of its determination to reunify with the self-gover… [+4604 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Guardian staff reporter",
+    "title": "Italy braces for sharp move to the right after election voting closes - The Guardian",
+    "description": "Giorgia Meloni, who leads Brothers of Italy, looks likely to become the first woman to head a government",
+    "url": "https://amp.theguardian.com/world/2022/sep/24/italy-right-georgia-meloni-after-election-voting-closes",
+    "urlToImage": "https://i.guim.co.uk/img/media/8b5f60edda69a3aea7f9042e7d4d96fbf9810a6b/0_0_4252_2552/master/4252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e67dc5404ca0371b92de5ed27e28074b",
+    "publishedAt": "2022-09-24T17:23:00Z",
+    "content": "Italians were braced for seismic change on Saturday, on the eve of an election forecasted to hand Italy the most rightwing government since the second world war.\r\nGiorgia Meloni, the head of the post… [+2024 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Isa Kaufman Geballe and Zoe Sottile, CNN",
+    "title": "Louise Fletcher, Oscar-winning actress, dies at 88 - CNN",
+    "description": "Louise Fletcher, the actress who won an Academy Award for playing the villainous Nurse Ratched in \"One Flew Over the Cuckoo's Nest,\" died Friday in France, according to her agent David Shaul. She was 88.",
+    "url": "https://www.cnn.com/2022/09/24/entertainment/louise-fletcher-actress-death/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220924113606-01-louise-fletcher-obit-super-tease.jpg",
+    "publishedAt": "2022-09-24T17:10:00Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "The Associated Press",
+    "title": "Florida Gov. Ron DeSantis declares emergency as storm is expected to hit Florida - CNBC",
+    "description": "DeSantis issued the order encouraging residents and local governments to make preparations as the storm moves toward the state.",
+    "url": "https://www.cnbc.com/2022/09/24/florida-gov-ron-desantis-declares-emergency-as-storm-is-expected-to-hit-florida.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107107233-16611780512022-08-20t013027z_338323797_rc200w9ks9sj_rtrmadp_0_usa-election-ohio.jpeg?v=1664037712&w=1920&h=1080",
+    "publishedAt": "2022-09-24T16:41:52Z",
+    "content": "Florida Gov. Ron DeSantis has declared a state of emergency for 24 counties as Tropical Storm Ian gathers strength over the Caribbean and is expected to bring heavy rain and hurricane-force winds to … [+2043 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "NASA spacecraft will reveal first look at an asteroid, then slam into it - CNN",
+    "description": "This week, learn everything you need to know about the DART spacecraft's plan to crash into an asteroid, gain insights from dinosaur eggs, meet a cloned Arctic wolf cub, hear space rocks crash into Mars, and more.",
+    "url": "https://www.cnn.com/2022/09/24/world/dart-science-newsletter-wt-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200629132529-nasa-dart-spacecraft-liciacube.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-24T16:41:00Z",
+    "content": "A version of this story appeared in CNNs Wonder Theory science newsletter. To get it in your inbox, sign up for free here.\r\nGet ready to see an asteroids tiny moon for the first time. Then, watch as … [+5186 chars]"
+    }
+    ]
+    }
